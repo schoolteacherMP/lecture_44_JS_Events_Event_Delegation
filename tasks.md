@@ -18,6 +18,7 @@ _Вариант решения:_
 ### Поведение "подсказка"  
 Напишите JS-код, реализующий поведение «подсказка».  
 При наведении мыши на элемент с атрибутом data-tooltip, над ним должна показываться подсказка и скрываться при переходе на другой элемент.  
+**код взять от**  **[СЮДА ](https://plnkr.co/edit/BvP4tQEb7ewJ2FtM?p=preview&preview)**  
 Пример HTML с подсказками:  
 ![image](https://user-images.githubusercontent.com/113675674/219618747-1377a6fc-3054-4d03-ab68-ca8539dc49d5.png)  
 ![image](https://user-images.githubusercontent.com/113675674/219618824-f73294f9-27e9-4567-a615-71689ff88a4f.png)  
