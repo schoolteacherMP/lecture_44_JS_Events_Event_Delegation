@@ -43,3 +43,6 @@ _Вариант решения:_
 3. Создаем функцию hideTooltip, которая будет скрывать подсказку. В этой функции получаем все элементы на странице с классом tooltip и удаляем их из body  
 4. Добавляем обработчики событий mouseover и mouseout на все элементы с атрибутом data-tooltip. В обработчике mouseenter вызываем функцию showTooltip, а в обработчике mouseleave вызываем функцию hideTooltip  
 Готово! Теперь при наведении мыши на элементы с атрибутом data-tooltip появляется подсказка, которая скрывается при переходе на другой элемент.  
+
+**Полезно ознакомиться:**  
+**[Ознакомьтесь со статьей getBoundingClientRect ](https://developer.mozilla.org/ru/docs/Web/API/Element/getBoundingClientRect)**    
